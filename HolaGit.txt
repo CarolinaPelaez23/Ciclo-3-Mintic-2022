@@ -3,5 +3,9 @@ Hola git
 prueba
 
 edición online
+<<<<<<< HEAD
 edición online 2
 linea 6
+=======
+linea 6 master
+>>>>>>> origin
